@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(-225deg, #FFE29F 0%, #ffa726 48%, #ef6c00 100%);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* section {
+  height: 100vh;
+}
+
+section #root {
+  position: relative;
+  max-width: 10000px;
+  max-height: 1500px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+  overflow: hidden;
+  color: #000;
+} */
+
+
+
+.example-enter {
+  opacity: 0.01;
+}
+
+.example-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.example-leave {
+  opacity: 1;
+}
+
+.example-leave.example-leave-active {
+  opacity: 0.01;
+  transition: opacity 100ms ease-in;
+}

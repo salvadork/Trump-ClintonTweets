@@ -1,8 +1,8 @@
-#Trump or Clinton Tweets!!#
+# Trump or Clinton Tweets!!!
 
-#1 Run `NPM install` to get latest Webpacks
+1 Run `NPM install` to get latest Webpacks
 
-#2 To start server run `NPM start`
+2 To start server run `NPM start`
 
 Tools used 
  - React

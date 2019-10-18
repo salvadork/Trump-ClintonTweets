@@ -123,7 +123,7 @@ module.exports = {
   ],
 
   entry: {
-    javascript: "./src/index.jsx",
+    javascript: "./src/index.js",
     html: "./public/index.html"
   }
 }
